@@ -2,6 +2,10 @@
 
 Awesome Dockerized Pre-Filled Databases for Learning and Academic Projects
 
+## Tags
+
+`docker` `database` `sample-data` `postgres` `postgresql` `mysql` `sql-server` `learning` `education` `academic` `testing` `development` `docker-compose` `database-samples` `pre-filled-database` `demo-database` `sql` `data-science` `practice-database`
+
 ## Contributing
 
 We welcome contributions! You can help improve this list in two ways:
@@ -11,10 +15,14 @@ We welcome contributions! You can help improve this list in two ways:
 
 ## List
 
-| Name | Topic | DBMS | Connection | Language | License |
+| Name | Topic | DBMS | Connection | Language | Project License |
 |------|-------|------|------------|----------|---------|
 | [Pagila](https://github.com/devrimgunduz/pagila) | Video rental store | PostgreSQL | User: `postgres`<br>Database: `posgres`<br>Password: `123456` | English | MIT |
 | [Accidents with victims](https://github.com/ctrl-alt-d/AccidentsAmbVictimes) | Dataset of accidents with victims in Catalonia (single table) | PostgreSQL / MySql / SqlServer | [check repo](https://github.com/ctrl-alt-d/AccidentsAmbVictimes?tab=readme-ov-file#connexi%C3%B3-a-la-base-de-dades-des-de-dbeaver) | Catalan | MIT |
 | [NorthWind (postgres)](https://github.com/bradymholt/docker-postgresql-northwind) | Wholesale trading company | PostgreSQL | User: `northwind`<br>Database: `northwind`<br>Password: `northwind` | English | MIT |
 
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
