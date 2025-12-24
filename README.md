@@ -24,6 +24,7 @@ We welcome contributions! You can help improve this list in two ways:
 | [Accidents with victims](https://github.com/ctrl-alt-d/AccidentsAmbVictimes) | Dataset of accidents with victims in Catalonia (single table) | PostgreSQL / MySql / SqlServer | [check repo](https://github.com/ctrl-alt-d/AccidentsAmbVictimes?tab=readme-ov-file#connexi%C3%B3-a-la-base-de-dades-des-de-dbeaver) | Catalan | MIT |
 | [NorthWind (postgres)](https://github.com/bradymholt/docker-postgresql-northwind) | Wholesale trading company | PostgreSQL | User: `northwind`<br>Database: `northwind`<br>Password: `northwind` | English | MIT |
 | [0484mariadb](https://github.com/MontiliviDaw/0484mariadb) | Multiple: empresa, hospital, jardineria, modelsclassics | MySQL/MariaDB | User: `root`<br>Password: `example`<br>Port: `3306` | Catalan/Spanish | MontiliviDaw's check repo |
+| [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) | Mystery/logic puzzle | SQLite | No password needed | English | MIT |
 
 
 
