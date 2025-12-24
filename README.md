@@ -17,9 +17,13 @@ We welcome contributions! You can help improve this list in two ways:
 
 | Name | Topic | DBMS | Connection | Language | Project License |
 |------|-------|------|------------|----------|---------|
+| [Azure SQL Edge](https://hub.docker.com/r/microsoft/azure-sql-edge) | Empty instance | SQL Server (Edge) | User: `sa`<br>Password: `YourStrong!Passw0rd`<br>Port: `1433` | English | Proprietary |
+| [PostgreSQL (empty)](https://hub.docker.com/_/postgres) | Empty instance | PostgreSQL | User: `postgres`<br>Password: `postgres`<br>Port: `5432` | English | PostgreSQL |
+| [MySQL (empty)](https://hub.docker.com/_/mysql) | Empty instance | MySQL | User: `root`<br>Password: `example`<br>Port: `3306` | English | MySQL |
 | [Pagila](https://github.com/devrimgunduz/pagila) | Video rental store | PostgreSQL | User: `postgres`<br>Database: `posgres`<br>Password: `123456` | English | MIT |
 | [Accidents with victims](https://github.com/ctrl-alt-d/AccidentsAmbVictimes) | Dataset of accidents with victims in Catalonia (single table) | PostgreSQL / MySql / SqlServer | [check repo](https://github.com/ctrl-alt-d/AccidentsAmbVictimes?tab=readme-ov-file#connexi%C3%B3-a-la-base-de-dades-des-de-dbeaver) | Catalan | MIT |
 | [NorthWind (postgres)](https://github.com/bradymholt/docker-postgresql-northwind) | Wholesale trading company | PostgreSQL | User: `northwind`<br>Database: `northwind`<br>Password: `northwind` | English | MIT |
+| [0484mariadb](https://github.com/MontiliviDaw/0484mariadb) | Multiple: empresa, hospital, jardineria, modelsclassics | MySQL/MariaDB | User: `root`<br>Password: `example`<br>Port: `3306` | Catalan/Spanish | MontiliviDaw's check repo |
 
 
 
